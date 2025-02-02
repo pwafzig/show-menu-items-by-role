@@ -7,11 +7,11 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-A simple WordPress plugin to show menu items based on user roles.
+A simple WordPress plugin to show content based on user roles.
 
 == Description ==
 
-This plugin allows you to show menu items based on user roles. You can select which user roles should be able to see each menu item when you create or edit a menu item.
+This plugin allows you to show content based on user roles. You can select which user roles should be able to see contents when you create or edit a menu item. When adding the Members-plugin (https://members-plugin.com/) by Memberspress, you can even restrict whole contents based on user roles.
 
 The plugin shows the menu items using filters provided by the WP core which means we are not using any JavaScript or JQuery.
 
@@ -43,6 +43,8 @@ When you create or edit a menu item, a new field will appear where you can check
 
 == Changelog ==
 
+= 1.0.2 =
+* Added support to filter content *
 = 1.0.1 =
 * Updated for compatibility with WordPress 6.7.1
 

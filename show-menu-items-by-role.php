@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Show Menu Items by Role
  * Plugin URI: https://github.com/pwafzig/show-menu-items-by-role
- * Description: Show specific navigation menu items based on user role / used for the internal website of LSC Erftland e.V. flying club
+ * Description: Show specific navigation menu items and content based on user role / used for the internal website of LSC Erftland e.V. flying club
  * Version: 1.0.1
  * Requires at least: 5.0
  * Requires PHP: 7.0
